@@ -1,0 +1,56 @@
+
+  .gris1{
+    animation-delay: 0s;
+  }
+
+  .verde1{
+    transform-origin: center center;
+    -webkit-transform-origin: center center;
+    -o-transform-origin: center center;
+    -moz-transform-origin: center center;
+    animation-delay: 1s;
+  }
+
+  .verde2{
+    transform-origin: center center;
+    -webkit-transform-origin: center center;
+    -o-transform-origin: center center;
+    -moz-transform-origin: center center;
+    animation-delay: 2s;
+  }
+
+  .verde3{
+    transform-origin: center center;
+    -webkit-transform-origin: center center;
+    -o-transform-origin: center center;
+    -moz-transform-origin: center center;
+    animation-delay: 3s;
+  }
+
+  .gris2{
+    animation-delay: 4s;
+  }
+
+  .vika{
+
+  }
+
+  .colita{
+    transform-origin: center center;
+    -webkit-transform-origin: center center;
+    -o-transform-origin: right center;
+    -moz-transform-origin: center center;
+    animation-delay: 5.5s;
+  }
+
+  .hoja1{
+    transform-origin: center center;
+    -webkit-transform-origin: center center;
+    -o-transform-origin: center center;
+    -moz-transform-origin: center center;
+    animation-delay: 6s;
+  }
+
+  .hoja2{
+    animation-delay: 6.5s;
+  }
