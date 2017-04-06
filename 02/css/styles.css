@@ -1,0 +1,196 @@
+ @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600');
+
+.big{
+  background-color: #ff7f76;
+  height: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  width: 600px;
+}
+
+.cajauno{
+/*  background-color: #d37676;*/
+  margin-left: 20px;
+  height: 150px;
+  width: 350px;
+}
+
+.cajauno-a {
+  width: 300px;
+}
+
+.double {
+  width: 200px;
+}
+
+.dutchlogo {
+  width: 55px;
+  float: right;
+  padding-right: 15px;
+  padding-top: 12px;
+}
+
+.cajauno-b {
+  margin-top: -10px;
+  width: 300%;
+}
+
+.intensity {
+    width: 280px;
+}
+
+.Artexh {
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 10px;
+  margin-left: 5px;
+  margin-top: -5px;
+  font-weight: 400;
+  letter-spacing: .05em;
+} 
+
+.cajados {
+  width: 550px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cajados-a {
+  width: 420px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 50px;
+  z-index: 1;
+}
+
+.white {
+  background: white;
+  border-radius: 50%;
+  height: 400px;
+  width: 400px;
+  position: absolute;
+  z-index: 0;
+}
+
+.remolino {
+  position: absolute;
+  margin-top: -10px;
+  margin-left: -10px;
+  width: 420px;
+  z-index: 1;
+}
+
+.cajados-b {
+  width: 480px;
+  margin-left: 73px;
+  mix-blend-mode: multiply;
+  z-index: 2;
+}
+
+.cajados-c {
+  color: #159CA8;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 100px;
+  width: 540px;
+  position: absolute;
+  margin-left: 15px;
+  margin-top: -10px;
+  line-height: 95px;
+  mix-blend-mode: multiply;
+  z-index: 3;
+  font-weight: 600;
+}
+
+.cajados-d {
+  color: #E36D66;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 100px;
+  font-weight: 600;
+  width: 540px;
+  position: relative;
+  text-align: right;
+  margin-right: 15px;
+  margin-top: -10px;
+  line-height: 95px;
+  mix-blend-mode: multiply;
+/*  opacity: 0.7;
+  filter: alpha(opacity=70);*/
+}
+
+.cajatres{
+  position: absolute;
+  margin-left: 20px;
+  margin-top: 110px;
+  height: 100px;
+  width: 550px;
+  vertical-align: bottom;
+}
+
+.cajatres-a{
+  margin-left: 20px;
+  height: 100px;
+  width: 200px;
+  float: left;
+}
+
+.Artexh2 {
+  color: #159CA8;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  margin-left: 5px;
+  margin-top: -5px;
+  mix-blend-mode: multiply;
+  font-weight: 400;
+  letter-spacing: .02em;
+} 
+
+.log1 {
+  width: 50px;
+}
+
+.log2 {
+  margin-left: 10px;
+  width: 35px;
+}
+
+.Artexh3 {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 7px;
+  margin-right: 45px;
+  font-weight: 400;
+  letter-spacing: .02em;
+  float: right;
+} 
+
+
+.cajatres-b{
+  margin-left: 20px;
+  padding-top: 30px;
+  height: 100px;
+  width: 150px;
+  float: right;
+}
+
+#col1 {
+  float: left;
+  width: 50px;
+}
+
+.Artexh4 {
+  color: #159CA8;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 7px;
+  margin-right: 45px;
+  font-weight: 400;
+  letter-spacing: .02em;
+  mix-blend-mode: multiply;
+  width: 100px;
+} 
+
+#col2 {
+  float: right;
+  width: 100px;
+}
+
